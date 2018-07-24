@@ -17,6 +17,15 @@ puts snacks("Swedish fish")
 
 # call your methods here
 
+def breakfast ("frosted flakes")
+  puts "Morning is the best time for "
+
+
+
+
+
+
+
 
 # Call your methods without any arguments here
 puts snacks
