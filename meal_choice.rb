@@ -22,6 +22,7 @@ def breakfast (breakfast = "frosted flakes")
   
 end 
 
+breakfast ("pancakes")
 
 
 
