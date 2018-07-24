@@ -19,7 +19,6 @@ puts snacks("Swedish fish")
 
 def breakfast (breakfas = "frosted flakes")
   "Morning is the best time for #{breakfas} "
-  
 end 
 
 puts breakfast ("pancakes")
