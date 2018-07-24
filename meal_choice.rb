@@ -29,6 +29,10 @@ def lunch (lun = "grilled cheese")
 end
 puts lunch ("peanut butter")
 
+def dinner (din = "salmon")
+  "Dinner is the best time for #{din}."
+end
+puts dinner ("brocoli")
 
 
 
