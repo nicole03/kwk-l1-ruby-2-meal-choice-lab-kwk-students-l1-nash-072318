@@ -24,7 +24,7 @@ end
 
 puts breakfast ("pancakes")
 
-def lunch (lun = grilled cheese)
+def lunch (lun = "grilled cheese")
   "Lunch is the best time for #{lun}."
 end
 puts lunch ("peanut butter")
