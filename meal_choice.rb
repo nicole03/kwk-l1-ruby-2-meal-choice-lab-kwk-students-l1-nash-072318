@@ -22,7 +22,7 @@ def breakfast (breakfas = "frosted flakes")
   
 end 
 
-breakfast ("pancakes")
+puts breakfast ("pancakes")
 
 
 
