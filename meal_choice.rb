@@ -17,8 +17,8 @@ puts snacks("Swedish fish")
 
 # call your methods here
 
-def breakfast ("frosted flakes")
-  puts "Morning is the best time for "
+def breakfast (breakfast = "frosted flakes")
+  puts "Morning is the best time for #{breakfast} "
 
 
 
